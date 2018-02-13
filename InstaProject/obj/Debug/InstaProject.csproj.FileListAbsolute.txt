@@ -1,0 +1,8 @@
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\bin\Debug\InstaProject.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\bin\Debug\InstaProject.exe
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\bin\Debug\InstaProject.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\obj\Debug\InstaProject.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\obj\Debug\InstaProject.exe
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\obj\Debug\InstaProject.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\bin\Debug\RandomNameGenerator.dll
+c:\users\maxim\documents\visual studio 2015\Projects\InstaProject\InstaProject\bin\Debug\xNet.dll
